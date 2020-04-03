@@ -4,6 +4,6 @@ public class TekstiTestid{
 	TekstiUurija t;
 	@Test
 	public void pikkus(){
-		assertEquals(4, t.t2htedeArv("tere"));
+		assertEquals(7, t.t2htedeArv("telefon"));
 	}
 }
