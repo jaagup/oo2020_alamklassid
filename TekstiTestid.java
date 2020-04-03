@@ -9,5 +9,6 @@ public class TekstiTestid{
 	@Test
 	public void loendamine1(){
 		assertEquals(2, t.loenda("tere", 'e'));
+		assertEquals(3, t.loenda("terekest", 'e'));
 	}
 }
