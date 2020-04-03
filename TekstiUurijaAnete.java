@@ -10,7 +10,6 @@ public class TekstiUurijaAnete implements TekstiUurija{
 				loendur++;
 			}
 		}
-
 		return loendur;
 	}
 }
