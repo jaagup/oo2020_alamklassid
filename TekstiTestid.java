@@ -6,4 +6,8 @@ public class TekstiTestid{
 	public void pikkus(){
 		assertEquals(7, t.t2htedeArv("telefon"));
 	}
+	@Test
+	public void loendamine1(){
+		assertEquals(2, t.loenda("tere", 'e'));
+	}
 }
