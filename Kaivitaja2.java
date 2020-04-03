@@ -9,3 +9,9 @@ public class Kaivitaja2{
 	//käsurealt antakse ette soovitud uuriva klassi nimi ning üks sõna
 	//Klassi eksemplari töö abiga väljastatakse selle sõna tähtede arv
 }
+
+/*
+[jaagup@greeny oo2020_alamklassid]$ java Kaivitaja2 TekstiUurijaSilver kuulilennuteetunneliluuk u
+6
+
+*/
