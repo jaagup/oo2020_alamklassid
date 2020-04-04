@@ -1,9 +1,0 @@
-public class Kaivitaja1{
-	public static void main(String[] arg) throws Exception{
-		TekstiUurija t=(TekstiUurija)Class.forName("TekstiUurijaJaagup").newInstance();
-=======
-		TekstiUurija t=(TekstiUurija)Class.forName("TekstiUurijaSandra").newInstance();
->>>>>>> 698b953e7ae370bafc026c34c437dd25ad84f7a4
-		System.out.println(t.loenda("Ahoi", 'i'));
-	}
-}
